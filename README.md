@@ -20,12 +20,3 @@ Play it here:
 - Winning combination highlight
 - Reset button
 
-## 📸 Preview
-
-![Game Screenshot](img/tictactoe_preview.png) *(You can add this image if available)*
-
-## 📌 How to Run Locally
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/omm6763/codecasa_tictactoe_game.gi
